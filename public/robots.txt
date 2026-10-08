@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+Allow: /diamantes
+Allow: /passe-de-nivel
+Allow: /airdrop
+Allow: /robux
+Allow: /como-comprar
+Allow: /suporte
+Disallow: /admin
+Disallow: /api/admin
+
+Sitemap: https://ais-pre-u4zgy3eqxitn6oykwzrgyf-365972694233.europe-west2.run.app/sitemap.xml

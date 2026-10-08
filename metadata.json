@@ -1,0 +1,6 @@
+{
+  "name": "VICY SHOP — Diamantes Free Fire & Robux",
+  "description": "Loja online profissional de Free Fire e Roblox em Angola. Venda de Diamantes, Airdrops, Passe de Nível e Robux em Kwanzas (KZ) com entrega rápida.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
